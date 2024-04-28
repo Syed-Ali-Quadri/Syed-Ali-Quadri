@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Express JS, Angular JS, Next JS**
 
-- 👯 I’m looking to collaborate on **EraGroup**
+- 👯 I’m looking to collaborate on **CodeEra, EraGroup**
 
 - 📫 How to reach me [Email](syedaliqaudri100@gmail.com)
 
