@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **EraGroup**
 
-- 📫 How to reach me **syedaliqaudri100@gmail.com**
+- 📫 How to reach me **[Email](syedaliqaudri100@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
