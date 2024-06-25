@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Ali Quadri</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🌱 I’m currently learning **Express JS, Angular JS, Next JS**
+- 🌱 I’m currently learning **Express JS, React JS**
 
 - 👯 I’m looking to collaborate on **CodeEra, EraGroup**
 
